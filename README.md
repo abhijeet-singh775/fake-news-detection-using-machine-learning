@@ -1,6 +1,6 @@
 # 📰 Fake News Detection Using Machine Learning
 
-A Machine Learning and NLP project that classifies news articles as **Fake** or **Real** using **TF-IDF Vectorization** and **Logistic Regression**. The model is trained on labeled news datasets and can predict the authenticity of unseen news articles with high accuracy.
+A Machine Learning and NLP project that classifies news articles as **Fake** or **Real** using **TF-IDF Vectorization** and **Logistic Regression**. The model is trained on labelled news datasets and can predict the authenticity of unseen news articles with high accuracy.
 
 ## 🚀 Features
 - Fake vs Real News Classification
